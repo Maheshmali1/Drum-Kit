@@ -10,4 +10,4 @@ The project also includes a visual animation when the pad is clicked to give a m
 
 Give it a try and unleash your inner drummer!"
 
-<a href = "https://maheshmali1.github.io/Drum-Kit/">Live demo<a>
+<a href = "https://maheshmali1.github.io/Drum-Kit/">Live demo - Drum Kit<a>
